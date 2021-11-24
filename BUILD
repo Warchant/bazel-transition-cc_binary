@@ -1,4 +1,5 @@
-load("//:variant.bzl", "build_variant", "string_flag")
+load("//:variant.bzl", "build_variant")
+load("//:string_flag.bzl", "string_flag")
 
 string_flag(
     name = "variant",
