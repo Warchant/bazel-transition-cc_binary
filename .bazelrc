@@ -1,0 +1,2 @@
+build:v1 --define variant=1
+build:v2 --define variant=2
